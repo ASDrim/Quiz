@@ -143,5 +143,8 @@ body {
     .main{
           max-width:100%;
       }
+    .navbar a {
+        margin-left: 10px;
+      }
 
 }
